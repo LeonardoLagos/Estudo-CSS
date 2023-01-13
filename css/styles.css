@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap');
+body{
+    background-color: #7a88b0;
+    color: #2f2f2d;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+h2,h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.bot-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: relative;
+    left: 230px;
+}
